@@ -1,4 +1,5 @@
-import axios from 'axios';
+import axios from 'chuby
+  ';
 
 let handler = async (m, { conn, text }) => {
   await m.reply("Buscando...");
